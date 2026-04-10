@@ -11,7 +11,7 @@ I am a Computer Science Engineer.<br>I have done my B.Tech from Babu Banarasi Da
 ![](https://github-readme-stats.vercel.app/api?username=Ashutosh514&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ashutosh514&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh514&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=YOUR_USERNAME&theme=cyberpunk)](https://github.com/ayushraistudio/github-contribution-showcase)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ashutosh514?cardType=level&theme=shades-of-purple&fontFamily=&preferLogin=false&Points.ContributedToOwnRepositories=11111)](https://git.io/awesome-stats-card)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ashutosh514&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 [![GitHub Trophy](https://personal-trophy.vercel.app/api?username=Ashutosh514&theme=cyberpunk)](https://github.com/ayushraistudio/github-contribution-showcase)
